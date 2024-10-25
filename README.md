@@ -32,8 +32,10 @@ requests模拟发出请求，携带data和authorization。
 
 连上网之后就可以安装docker和青龙面板了，不详述。
 
-打开青龙面板，在定时任务中添加以下内容，时间和文件名称按照自己的来<img src="C:\Users\huaji\AppData\Roaming\Typora\typora-user-images\image-20241025111941370.png" alt="image-20241025111941370" style="zoom:25%;" />
+打开青龙面板，在定时任务中添加以下内容，时间和文件名称按照自己的来![屏幕截图 2024-10-25 111933](https://github.com/user-attachments/assets/34194dea-1232-45d6-87be-dd5b21536890)
 
-然后在进入脚本管理-->新建文件-->将脚本内容复制进去-->保存![image-20241025112234606](C:\Users\huaji\AppData\Roaming\Typora\typora-user-images\image-20241025112234606.png)
+
+然后在进入脚本管理-->新建文件-->将脚本内容复制进去-->保存![屏幕截图 2024-10-25 112221](https://github.com/user-attachments/assets/5eaa3cc3-3dbf-458c-b3fd-2c5bbecdd2fe)
+
 
 第一次写，有说不清楚的地方请谅解
