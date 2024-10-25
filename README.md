@@ -2,7 +2,7 @@
 
 ouc信院晚上打卡，采用python requests和青龙面板
 
-前几天闲来无事，在github上面搜到[ExistoT01](https://github.com/ExistoT01/auto-checkin-script/commits?author=ExistoT01)学长的自动打卡脚本，突然心生想法，用青龙面板来实现定时打卡。
+前几天闲来无事，在github上面搜到[ExistoT01](https://github.com/ExistoT01/auto-checkin-script)学长的自动打卡脚本，突然心生想法，用青龙面板来实现定时打卡。
 
 **注意：仅供学习交流之用，请勿用作商业用途**
 
