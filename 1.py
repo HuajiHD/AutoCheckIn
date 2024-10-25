@@ -43,7 +43,7 @@ def checkIn(url):
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36',
             'Content-Type': 'application/json',
             'Connection': 'keep-alive',
-            'Host': 'h-api.jielong.co',
+            'Host': 'b-api.jielong.co',
             'Authorization': authorization
         }
 
